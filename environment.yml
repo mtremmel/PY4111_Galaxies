@@ -1,0 +1,10 @@
+name: py4111env
+channels:
+  - defaults
+dependencies:
+  - astropy
+  - matplotlib
+  - numpy
+  - pip
+  - pip:
+    - artpop
